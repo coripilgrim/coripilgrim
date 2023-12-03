@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @lynnpilgrim
+# <h1> Hi, I’m Cori Pilgrim </h1>
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning python and java (not a good mix, I know).
 - 💞️ I’m not looking to collaborate on anything right now. 
