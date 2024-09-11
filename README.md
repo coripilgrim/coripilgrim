@@ -16,10 +16,10 @@
 <h2> Language Proficiency </h2>
 - <b> Python - Beginner </b> <br/>
 - <b> Java - Beginner </b> <br/>
-- <b> Kotlin - Beginner </b> <br/>
 - <b> HTML/CSS - Intermediate </b> <br/>
 
 <h2> Just for Fun Projects </h2>
 
-- <b> I created a locally hosted Minecraft server for my friends and I to play on.</b> <br/>
+- <b> I created a locally hosted Minecraft server for my friends and I to play on. This server has been continuously updated to the latest version.</b> <br/>
+
 <!-- Later, add screenshots of fun things I'm doing on Minecraft server. -->
